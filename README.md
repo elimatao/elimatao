@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently exploring the various fields of computer science.
+
+Visit <a href="www.elia-doumerc.es">my website</a>!
 
 <!--
 **elimatao/elimatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
