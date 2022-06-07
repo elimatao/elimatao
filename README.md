@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently exploring the various fields of computer science.
 
-Visit <a href="http://www.elia-doumerc.es" target="_blank">my website</a>!
+Visit <a href="http://elia.doumerc.me" target="_blank">my website</a>!
 
 <!--
 **elimatao/elimatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
